@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <linearGradient id="natural-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2f4f7"/>
+      <stop offset="100%" stop-color="#e3e7eb"/>
+    </linearGradient>
+  </defs>
+
+  <!-- shared natural background -->
+  <rect x="1" y="1" width="22" height="22" rx="5" fill="url(#natural-bg)"/>
+
+  <!-- fullscreen arrows -->
+  <path fill="#1f2937" d="M4 9V4h5v2H6v3H4zm0 6h2v3h3v2H4v-5zm16-6h-2V6h-3V4h5v5zm-5 11v-2h3v-3h2v5h-5z"/>
+</svg>

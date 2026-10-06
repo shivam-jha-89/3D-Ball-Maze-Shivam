@@ -1,0 +1,28 @@
+{
+  "name": "3d-ball-maze",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "description": "A 3D ball Maze with realistic physics, procedurally generated levels, and dynamic lighting. Roll your ball through increasingly challenging mazes, avoid obstacles, and reach the exit!",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacOlmstead/3D-Ball-Maze.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IsaacOlmstead/3D-Ball-Maze/issues"
+  },
+  "homepage": "https://github.com/IsaacOlmstead/3D-Ball-Maze#readme"
+}
