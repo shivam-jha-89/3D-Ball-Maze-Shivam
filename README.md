@@ -129,7 +129,7 @@ Feel free to fork, modify, and improve! Suggestions for enhancements:
 
 ## 👨‍💻 Original Creator
 
-**wwwtyro** – [GitHub](https://github.com/wwwtyro)
+**wwwtyro** – [GitHub](https://threed-ball-maze-shivam.onrender.com/)
 
 ---
 
