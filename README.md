@@ -2,7 +2,7 @@
 
 A 3D ball maze with realistic physics, procedurally generated levels, and dynamic lighting. Roll your ball through increasingly challenging mazes, avoid obstacles, and reach the exit!
 
-**[Play now!](https://isaacolmstead.github.io/3D-Ball-Maze/)**
+**[Play now!](https://threed-ball-maze-shivam.onrender.com/)**
 
 ---
 
